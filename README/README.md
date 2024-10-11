@@ -18,6 +18,12 @@ npm install
 To generate a README.md file, run the following command:
 
 node index.js
+
+#  The walkthrough video thatt demonstrate how a user would invoke the application from the command line
+
+- https://drive.google.com/file/d/10M5PlSFXXmOA-BgHX1iyQq5DIlxApS0c/view?usp=sharingLinks to an external site.
+
+
 ## Credits
 
 Trinidad Peterson - GitHub Username ----- Trinigch
